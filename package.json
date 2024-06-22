@@ -1,0 +1,17 @@
+{
+  "name": "fixedeyer2",
+  "version": "1.0.0",
+  "description": "LFWB fixedeyer project remade to be more convenient than before. Now made with JS.",
+  "main": "fixedeyer2.js",
+  "scripts": {
+    "test": "-"
+  },
+  "repository": "https://github.com/PunishedHideo/Fixedeyer2.git",
+  "author": "PunishedHideo",
+  "license": "MIT",
+  "dependencies": {
+    "geometric": "^2.5.4",
+    "node-global-key-listener": "^0.3.0",
+    "robotjs": "^0.6.0"
+  }
+}
